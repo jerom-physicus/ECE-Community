@@ -46,7 +46,7 @@ html{
     left: 64px;
     top: 340px;
     background: #7B04F1;
-    box-shadow: 0px 14px 64px 27px rgba(128, 0, 255, 0.22), inset 0px 0px 24px 16px rgba(184, 114, 255, 0.59);
+    box-shadow: 0px 0px 54px 17px rgba(128, 0, 255, 0.22), inset 0px 0px 24px 16px rgba(184, 114, 255, 0.59);
     border-radius: 34px;
     
 
@@ -510,7 +510,7 @@ li{
         left: 24px;
         top: 170px;
         background: #7B04F1;
-        box-shadow: 0px 14px 64px 27px rgba(128, 0, 255, 0.22), inset 0px 0px 24px 16px rgba(184, 114, 255, 0.59);
+        box-shadow: 0px 7px 54px 17px rgba(128, 0, 255, 0.22), inset 0px 0px 24px 16px rgba(184, 114, 255, 0.59);
         border-radius: 34px;
      
     }
@@ -566,7 +566,7 @@ li{
         left: 25%;
         top: 350px;
         background: #7B04F1;
-    box-shadow: 0px 14px 64px 27px rgba(128, 0, 255, 0.22), inset 0px 0px 24px 16px rgba(184, 114, 255, 0.59);
+        box-shadow: 0px 7px 54px 17px rgba(128, 0, 255, 0.22), inset 0px 0px 24px 16px rgba(184, 114, 255, 0.59);
         border-radius: 20px;
     
     }
