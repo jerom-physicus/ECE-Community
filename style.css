@@ -126,6 +126,8 @@ li{
 }
 .start2{
     display: none;
+}.t1{
+    padding: 100px;
 }
 .phy{
     box-sizing: border-box;
@@ -143,6 +145,16 @@ li{
     text-align: center;
     font-size: 30px;
     padding-top: 20px;
+}
+.p1{
+    padding: 20px;
+    padding-bottom: 0      ;
+}
+.p1d{
+    position:relative;
+    padding-top: -100;
+    padding-left: 20px;
+    text-decoration: none;
 }
 .che{
     
